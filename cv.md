@@ -2,9 +2,9 @@
 
 ## Contacts:
 
--   Discord: MRKS77
--   E-mail: artxmarkos@gmail.com
--   Tel: +375297901598
+-   Discord: Ernis#0651
+-   E-mail: e.badmaev@gmail.com
+-   Tel: +79323091875
 
 ## About myself:
 

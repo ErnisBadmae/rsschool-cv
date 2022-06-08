@@ -1,4 +1,6 @@
-### Ernis Badmaev
+https://ErnisBadmae.github.io/rsschool-cv/cv
+
+# Ernis Badmaev
 
 ## Contacts:
 

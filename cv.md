@@ -1,4 +1,4 @@
-## #Ernis Badmaev
+### Ernis Badmaev
 
 ## Contacts:
 
@@ -32,7 +32,7 @@ function findUniq(arr) {
 
 ## Work experience:
 
-novice developer in ANO 'ANO NAMIS'
+novice developer in [ANO 'ANO NAMIS']
 
 ## Education and courses:
 

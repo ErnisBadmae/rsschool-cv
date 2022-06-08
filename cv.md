@@ -1,4 +1,4 @@
-https://ErnisBadmae.github.io/rsschool-cv/cv
+# [rsschool-cv](https://ErnisBadmae.github.io/rsschool-cv/cv)
 
 # Ernis Badmaev
 

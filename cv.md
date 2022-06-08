@@ -32,7 +32,7 @@ function findUniq(arr) {
 
 ## Work experience:
 
-novice developer in ANO ''
+novice developer in ANO 'ANO NAMIS'
 
 ## Language:
 

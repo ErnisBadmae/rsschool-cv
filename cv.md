@@ -32,7 +32,7 @@ function findUniq(arr) {
 
 ## Work experience:
 
-novice developer in [ANO 'ANO NAMIS']
+novice developer in [ANO 'ANO NAMIS'](https://namis.com/)
 
 ## Education and courses:
 

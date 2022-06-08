@@ -8,7 +8,7 @@
 
 ## About myself:
 
-I want to learn Front-End Development in RSSchool!
+I want to learn Front-End Development in **RSschool!**
 
 ## Code example:
 
@@ -33,6 +33,10 @@ function findUniq(arr) {
 ## Work experience:
 
 novice developer in ANO 'ANO NAMIS'
+
+## Education and courses:
+
+Elbrus Bootcamp
 
 ## Language:
 
